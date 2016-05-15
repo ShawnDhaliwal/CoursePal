@@ -19,7 +19,7 @@ body{
 
 .menu1, li,a {
     text-decoration: none;
-    color: dimgray;
+    color: white;
     margin-right: 10px;
     display: inline;
 
@@ -83,4 +83,3 @@ body{
     
     padding-left: 390px;
 }
-
