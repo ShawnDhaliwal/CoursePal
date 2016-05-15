@@ -1,0 +1,51 @@
+body{
+    height: 100%;   
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+.nav{
+    color: aliceblue;    
+}
+
+.menu1{
+    float: left;
+    padding-left: 50px;  
+}
+
+.menu2{
+    float: right;
+    padding-right: 50px;
+}
+
+.nav,ul, li, a {
+    position: relative;
+    display: inline;
+    padding: 10px;
+    text-decoration: none;
+    color: dimgray;
+}
+
+.title{
+    padding-top: 9%;
+    text-align: center;
+    color: black;
+    font-size: 700%;  
+}
+
+.motto{  
+    text-align: center;
+}
+
+.searchBar{   
+    text-align: center;
+}
+
+#s{
+    width: 220px;
+    height: 20px;   
+}
+
+
+
