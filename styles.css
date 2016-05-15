@@ -3,10 +3,13 @@ body{
     width: 100%;
     padding: 0px;
     margin: 0px;
+    background-color: #ECEAE0;
+
+  
 }
 
 .menu1{
-    background-color: aliceblue;
+    background-color: #3b5998;
     width: 100%;
     font-size: 25px;
     float: left;
