@@ -5,33 +5,37 @@ body{
     margin: 0px;
 }
 
-.nav{
-    color: aliceblue;    
-}
-
 .menu1{
+    background-color: aliceblue;
+    width: 100%;
+    font-size: 25px;
     float: left;
-    padding-left: 50px;  
+    overflow: hidden;
+    margin-top: 0px;
 }
 
-.menu2{
-    float: right;
-    padding-right: 50px;
-}
-
-.nav,ul, li, a {
-    position: relative;
-    display: inline;
-    padding: 10px;
+.menu1, li,a {
     text-decoration: none;
     color: dimgray;
+    margin-right: 10px;
+    display: inline;
+
 }
 
+
 .title{
-    padding-top: 9%;
+    padding-top:9%;
     text-align: center;
     color: black;
     font-size: 700%;  
+}
+
+.register{
+    padding-top: 9%;
+    padding-left: 6%;
+    color: black;
+    font-size: 200%;
+    
 }
 
 .motto{  
@@ -42,10 +46,38 @@ body{
     text-align: center;
 }
 
+
+
 #s{
     width: 220px;
     height: 20px;   
 }
 
+.registerform{
+    padding-top: 20px;
+    padding-left: 175px;
+}
 
+.registertable{
+   border-spacing: 2em;
+}
+
+#userform{
+    width: 300px;
+}
+
+.forgotpassword{
+    
+    padding-left: 30px;
+}
+
+.forgot{
+    
+    color: blue;
+}
+
+.login{
+    
+    padding-left: 390px;
+}
 
