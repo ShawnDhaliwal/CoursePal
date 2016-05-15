@@ -9,12 +9,15 @@ body{
 }
 
 .menu1{
-    background-color: #3b5998;
+    background-color: #111;
     width: 100%;
     font-size: 25px;
     float: left;
     overflow: hidden;
     margin-top: 0px;
+    overflow: hidden;
+    list-style-type: none;
+
 }
 
 .menu1, li,a {
@@ -22,12 +25,36 @@ body{
     color: white;
     margin-right: 10px;
     display: inline;
+    padding: 14px 16px;
+
 
 }
 
+.menu1, li, a:hover:not(.activeHome) {
+    background-color: #111;
+}
+.menu1, li, a:hover:not(.activeRegister) {
+    background-color: #111;
+}
+.menu1, li, a:hover:not(.activeLogin) {
+    background-color: #111;
+}
+
+
+.activeHome {
+background-color:#3b5998;
+}
+
+.activeRegister {
+background-color:#3b5998;
+}
+
+.activeLogin {
+background-color:#3b5998;
+}
 
 .title{
-    padding-top:9%;
+    padding-top:15%;
     text-align: center;
     color: black;
     font-size: 700%;  
@@ -52,8 +79,8 @@ body{
 
 
 #s{
-    width: 220px;
-    height: 20px;   
+    width: 500px;
+    height: 30px;   
 }
 
 .registerform{
@@ -82,4 +109,3 @@ body{
 .login{
     
     padding-left: 390px;
-}
