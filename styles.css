@@ -3,7 +3,7 @@ body{
     width: 100%;
     padding: 0px;
     margin: 0px;
-    background-color: #ECEAE0;
+    background-color: white;
 
   
 }
@@ -30,14 +30,9 @@ body{
 
 }
 
-.menu1, li, a:hover:not(.activeHome) {
-    background-color: #111;
-}
-.menu1, li, a:hover:not(.activeRegister) {
-    background-color: #111;
-}
-.menu1, li, a:hover:not(.activeLogin) {
-    background-color: #111;
+#RegisterButton{
+    
+    margin-left: 400px;
 }
 
 
@@ -50,6 +45,18 @@ background-color:#3b5998;
 }
 
 .activeLogin {
+background-color:#3b5998;
+}
+
+.activeHelp {
+background-color:#3b5998;
+}
+
+.activeAbout {
+background-color:#3b5998;
+}
+
+.activeContact {
 background-color:#3b5998;
 }
 
