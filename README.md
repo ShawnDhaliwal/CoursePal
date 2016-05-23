@@ -20,6 +20,7 @@ CoursePal is a website that allows students to post reviews for Courses they hav
 - The ability for a user to view reviews they have posted
 - The ability for a user to search for Uvic courses
 - 'Forgot username or password' feature
+- Confirm password feature on registration page
 - Protection against MySQL injection
 - Encrypting account passwords stored in MySQL database
 - Filling out Contact, Help, About, and Profile pages with text (low priority task)
