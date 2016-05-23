@@ -1,4 +1,4 @@
-The primary goal of this project is to further increase my knowledge in HTML5, CSS, PHP, and MySQL.
+The primary goal of this project is to further increase my knowledge in HTML5, CSS, Javascript, PHP, and MySQL.
 
 # CoursePal
 
@@ -8,7 +8,8 @@ CoursePal is a website that allows students to post reviews for Courses they hav
 
 ### Tasks Completed
 - Basic design of webpages using HTML5 and CSS 
-- All webpages link to eachother
+- Connecting to MySQL database using PHP
+- Retrieving and storing user information into MySQL database using PHP
 - Users are able to Register an account with a unique username.
 - Account information such as Email, Password, and Username is stored in MySQL database.
 - Users are able to log in using the unique username and password of a registered account. 
@@ -21,3 +22,4 @@ CoursePal is a website that allows students to post reviews for Courses they hav
 - Protection against MySQL injection
 - Encrypting account passwords stored in MySQL database
 - Filling out Contact, Help, About, and Profile pages with text (low priority task)
+- Integration of Javascript
