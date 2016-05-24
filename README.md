@@ -1,3 +1,5 @@
+Short demonstration of project: https://youtu.be/3AwOAlMNMkY
+
 The primary goal of this project is to further increase my knowledge in HTML5, CSS, Javascript, PHP, and MySQL.
 
 # CoursePal
