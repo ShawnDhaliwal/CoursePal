@@ -7,7 +7,7 @@ body{
 
   
 }
-
+/* navigation menu styling */
 .menu1{
     background-color: #111;
     width: 100%;
@@ -19,7 +19,7 @@ body{
     list-style-type: none;
 
 }
-
+/* text styling of navigation menu */
 .menu1, li,a {
     text-decoration: none;
     color: white;
@@ -35,7 +35,7 @@ body{
     margin-left: 400px;
 }
 
-
+/* following code highlights active tab */
 .activeHome {
 background-color:#3b5998;
 }
@@ -78,12 +78,10 @@ background-color:#3b5998;
 .motto{  
     text-align: center;
 }
-
+/* home search bar */
 .searchBar{   
     text-align: center;
 }
-
-
 
 #s{
     width: 500px;
@@ -98,21 +96,17 @@ background-color:#3b5998;
 .registertable{
    border-spacing: 2em;
 }
-
+/* login form placement */
 #userform{
     width: 300px;
 }
-
-.forgotpassword{
-    
-    padding-left: 30px;
-}
+/* making forgot password or username highlighted in blue */
 
 .forgot{
-    
+    padding-left: 30px;
     color: blue;
 }
-
+/* login button on log in pagge */
 .login{
     
     padding-left: 390px;
