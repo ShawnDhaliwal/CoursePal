@@ -28,6 +28,7 @@
         <?php
             session_start();
             include("config.php");
+            //Get username's profile information when they are logged in
             $sql="SELECT * FROM Register WHERE Username='".$_SESSION['username_in']."'";
             $result=mysqli_query($conn, $sql);
             $row = mysqli_fetch_assoc($result);
