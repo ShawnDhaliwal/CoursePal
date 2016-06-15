@@ -8,7 +8,8 @@ Finding out what other students think of a course at Uvic isn't easy.
 
 CoursePal is a website that allows students to post reviews for Courses they have taken at Uvic. The posted course reviews are then available for all students to view, giving students the ability to gain valuable information on courses prior to registration. 
 
-### Project Status: In Progress
+### Project Status: Paused
+Working on another course project that involes Symfony PHP, HTML, CSS, and Javascript.
 
 ### Tasks Completed
 - Basic design of webpages using HTML5 and CSS 
