@@ -10,7 +10,7 @@ CoursePal is a website that allows students to post reviews for Courses they hav
 
 ### Project Status: Paused
 Working on another course project that involes Symfony PHP, HTML, CSS, and Javascript.
-
+See www.github.com/ShawnDhaliwal/saiddit
 ### Tasks Completed
 - Basic design of webpages using HTML5 and CSS 
 - Connecting to MySQL database using PHP
